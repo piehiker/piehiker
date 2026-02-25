@@ -1,6 +1,6 @@
 ***
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=rush0ur&color=1b4435&label=studs) 
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=rush0ur&color=954b2a&label=studs) 
 
 <p align="center"> ⁘ ͜　　𝒕𝖾𝗌﹔zє﹒𝗄𝗂𝗇 𝗇𝖺𝗆𝖾𝗌　𓏶　7𝗍𝖾𝖾ղ　::　𝗍𝗁𝖾𝗒 / 𝖺𝗇𝗒　  ͜ ⁘
 <p align="center"> ⋅ 　𝖼 + 𝗁　𝖿𝗋𝖾𝖾𝗅𝗒 !　𓏺　𝗆𝗈𝗌𝗍𝗅𝗒 𝗈𝖿𝖿𝗍𝖺𝖻　𝗐2𝗂　 ⋅　
