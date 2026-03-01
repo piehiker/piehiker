@@ -10,6 +10,6 @@
 <p align="center"> 𐂯
   
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤ[prns cc](https://pronouns.cc/@piehiker)ㅤㅤ[ata](https://rushour.atabook.org/)ㅤㅤ[gunslol](https://guns.lol/azegect)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤ ㅤㅤ[prns cc](https://pronouns.cc/@piehiker)ㅤㅤ[ata](https://piehiker.atabook.org/)ㅤㅤ[gunslol](https://guns.lol/azegect)
 
 ***
