@@ -2,8 +2,6 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ![](https://komarev.com/ghpvc/?username=rush0ur&color=954b2a&label=studs) 
 
-<p align="center"> " 𝗍𝗁𝖾 𝗏𝗈𝗂𝖽 𝗂𝗌𝗇'𝗍 𝖺𝗌 𝖾𝗆𝗉𝗍𝗒 𝖺𝗌 𝖺 𝗌𝗄𝖾𝗉𝗍𝗂𝖼'𝗌 𝗁𝖾𝖺𝗋𝗍 "
-
 <p align="center"> ⁘ ͜　　𝒕𝖾𝗌﹔zє﹒𝗄𝗂𝗇 𝗇𝖺𝗆𝖾𝗌　𓏶　7𝗍𝖾𝖾ղ　::　𝗍𝗁𝖾𝗒 / 𝖺𝗇𝗒　  ͜ ⁘
 <p align="center"> ⋅ 　𝖼 + 𝗁　𝖿𝗋𝖾𝖾𝗅𝗒 !　𓏺　𝗆𝗈𝗌𝗍𝗅𝗒 𝗈𝖿𝖿𝗍𝖺𝖻　𝗐2𝗂　 ⋅　
 <p align="center"> 𝖿𝗋𝗈𝗓𝖾𝗇 𝗌𝗈𝗎𝗅 , 𝖠𝖱𝖾𝖦𝖾𝖼𝗍 & 𝖻𝖼𝗌 𝖾𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍 ^ᴗ^
