@@ -8,6 +8,6 @@
 <p align="center"> 𐂯
   
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ[prns cc](https://pronouns.cc/@piehiker)ㅤㅤ[ata](https://piehiker.atabook.org/)ㅤㅤ[gunslol](https://guns.lol/azegect)ㅤㅤ[mw alan ^_^](https://rentry.co/nasheu)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤ[prns cc](https://pronouns.cc/@piehiker)ㅤㅤ[ata](https://piehiker.atabook.org/)ㅤㅤ[gunslol](https://guns.lol/azegect)ㅤㅤ[mw alan ^_^](https://rentry.co/nasheu)
 
 ***
