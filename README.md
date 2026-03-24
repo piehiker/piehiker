@@ -12,6 +12,6 @@
 𐂯
   
 
-[prns cc](https://pronouns.cc/@piehiker)ㅤㅤ[ata](https://piehiker.atabook.org/)ㅤㅤ[gunslol](https://guns.lol/azegect)ㅤㅤ[mw alan](https://rentry.co/nasheu)
+[prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[gunslol](https://guns.lol/azegect)ㅤ[mw alan](https://rentry.co/nasheu)
 
 ***
