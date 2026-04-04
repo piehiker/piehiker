@@ -8,8 +8,6 @@
 ⋅ 　𝖼 + 𝗁　𝖿𝗋𝖾𝖾𝗅𝗒 !　𓏺　𝗆𝗈𝗌𝗍𝗅𝗒 𝗈𝖿𝖿𝗍𝖺𝖻　𝗐2𝗂　 ⋅　
 
 <img src="https://files.catbox.moe/ia6dxx.png" width="35%">
-  
-𐂯
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[gunslol](https://guns.lol/azegect)ㅤ[mw alan](https://rentry.co/nasheu)
 
