@@ -1,4 +1,4 @@
-***
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=rush0ur&color=6b8f70&label=studs) 
@@ -13,4 +13,4 @@ ${\color{#699578}{𝖺𝗋𝗍𓏺　𝖻𝗒𓏺　@𝗅𝖺𝗂𝗒𝗒𝖾�
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[gunslol](https://guns.lol/azegect)ㅤ[mw alan](https://rentry.co/nasheu)
 
-***
+
