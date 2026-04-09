@@ -7,9 +7,9 @@ ${\color{#699578}{⁘ ͜　　𝒕𝖾𝗌﹔zє﹒𝗄𝗂𝗇 𝗇𝖺𝗆𝖾
 
 ${\color{#699578}{⋅ 　𝖼 × 𝗁　𝖿𝗋𝖾𝖾𝗅𝗒 !　𓏺　𝗆𝗈𝗌𝗍𝗅𝗒　𝗈𝖿𝖿𝗍𝖺𝖻　𝗐2𝗂　 ⋅　}}$
 
-${\color{#699578}{𐂯}}$
+<img src="https://files.catbox.moe/5yp482.png" width="50%">
 
-<img src="https://files.catbox.moe/ia6dxx.png" width="35%">
+${\color{#699578}{𝖺𝗋𝗍𓏺　𝖻𝗒𓏺　@𝗅𝖺𝗂𝗒𝗒𝖾𝗌𝗌𓏺　𝗈𝗇𓏺　𝗍𝗐𝗍}}$
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[gunslol](https://guns.lol/azegect)ㅤ[mw alan](https://rentry.co/nasheu)
 
