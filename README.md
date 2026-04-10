@@ -9,7 +9,7 @@ ${\color{#699578}{⋅ 　𝖼 × 𝗁　𝖿𝗋𝖾𝖾𝗅𝗒 !　𓏺　𝗆
 
 <img src="https://files.catbox.moe/5yp482.png" width="50%">
 
-${\color{#699578}{𝖺𝗋𝗍𓏺　𝖻𝗒𓏺　@𝗅𝖺𝗂𝗒𝗒𝖾𝗌𝗌𓏺　𝗈𝗇𓏺　𝗍𝗐𝗍}}$
+${\color{#699578}{𝖺𝗋𝗍　𝖻𝗒　@𝗅𝖺𝗂𝗒𝗒𝖾𝗌𝗌　𝗈𝗇　𝗍𝗐𝗍}}$
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[gunslol](https://guns.lol/azegect)ㅤ[mw alan](https://rentry.co/nasheu)
 
