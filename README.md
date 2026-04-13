@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rush0ur&color=6b8f70&label=studs) 
+![](https://komarev.com/ghpvc/?username=rush0ur&color=6b8f70&label=reposes) 
 
 $\color{#699578}⁘ ͜　𝒕𝖾𝗌﹔zє﹒𝗄𝗂𝗇　𝗇𝖺𝗆𝖾𝗌　𓋹　7𝗍𝖾𝖾ղ　::　𝗍𝗁𝖾𝗒 / 𝖺𝗇𝗒　 ͜ ⁘$
 
