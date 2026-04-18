@@ -13,8 +13,6 @@ $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 <p align="center">$\small\color{#637A75}{\textsf{𝖺𝗋𝗍　𝖻𝗒　@𝗁𝖺𝗋𝗏𝖾𝗒𝗐𝗁𝗂𝗌𝗉𝗒　𝗈𝗇　𝗍𝗐𝗍}}$
 
-<p align="center">$\color{#637A75}{\textsf{₊⋅　𝖼 × 𝗁　𝖾𝗇𝖼𝗈𝗎𝗋𝖺𝗀𝖾𝖽 　𝗁𝖾𝖺𝗏𝗂𝗅𝗒　⏖　𝖼𝗎𝖽　𝖼𝗈𝗆𝖿　⋅₊}}$
-
 $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[mw alan](https://rentry.co/nasheu)
