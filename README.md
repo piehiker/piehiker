@@ -1,16 +1,20 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rush0ur&color=5F587A&label=reposes) 
+![](https://komarev.com/ghpvc/?username=rush0ur&color=637A75&label=reposes) 
 
-$\color{#699578}ㅤㅤㅤㅤㅤ$
+$\color{#637A75}ㅤㅤㅤㅤㅤ$
 
-$\color{#6b8f70}₊⋅　𝖼 × 𝗁　𝖾𝗇𝖼𝗈𝗎𝗋𝖺𝗀𝖾𝖽 　𝗁𝖾𝖺𝗏𝗂𝗅𝗒　⏖　𝖼𝗎𝖽　𝖼𝗈𝗆𝖿　⋅₊$
+<div align="center">
 
-<img src="https://files.catbox.moe/5yp482.png" width="50%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1019&color=637A75&center=true&vCenter=true&multiline=true&width=435&lines=%22ohh%2C+i+get+it+now.%22;%22i'm+still+in+the+hole.%22)](https://git.io/typing-svg)
 
-$\color{#6b8f70}𝖺𝗋𝗍　𝖻𝗒　@𝗅𝖺𝗂𝗒𝗒𝖾𝗌𝗌　𝗈𝗇　𝗍𝗐𝗍$
+<img src="https://files.catbox.moe/29y4lt.png" width="50%">
 
-$\color{#6b8f70}ㅤㅤㅤㅤㅤ$
+$\color{#637A75}₊⋅　𝖼 × 𝗁　𝖾𝗇𝖼𝗈𝗎𝗋𝖺𝗀𝖾𝖽 　𝗁𝖾𝖺𝗏𝗂𝗅𝗒　⏖　𝖼𝗎𝖽　𝖼𝗈𝗆𝖿　⋅₊$
+
+$\color{#637A75}𝖺𝗋𝗍　𝖻𝗒　@𝗁𝖺𝗋𝗏𝖾𝗒𝗐𝗁𝗂𝗌𝗉𝗒　𝗈𝗇　𝗍𝗐𝗍$
+
+$\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 [prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[mw alan](https://rentry.co/nasheu)
