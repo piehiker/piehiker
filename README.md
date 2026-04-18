@@ -11,7 +11,7 @@ $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 <img src="https://files.catbox.moe/29y4lt.png" width="50%">
 
-<p align="center">$\small\color{#637A75}{\textsf{𝖺𝗋𝗍　𝖻𝗒　@𝗁𝖺𝗋𝗏𝖾𝗒𝗐𝗁𝗂𝗌𝗉𝗒　𝗈𝗇　𝗍𝗐𝗍}}$
+<p align="center">$\small\color{#637A75}{\textsf{𝖺𝗋𝗍　𝖻𝗒　@𝗁𝖺𝗋𝗏𝖾𝗒𝗐𝗁𝗂𝗌𝗉𝗒　𝗈𝗇　𝗍𝗎𝗆𝖻𝗅𝗋}}$
 
 $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
