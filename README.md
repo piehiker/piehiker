@@ -7,7 +7,7 @@ $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=5500&pause=200&color=637A75&center=true&vCenter=true&multiline=true&width=435&lines=%22ohh%2C+i+get+it+now.%22;%22i'm+still+in+the+hole.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3900&pause=500&color=637A75&center=true&vCenter=true&multiline=true&width=435&lines=%22ohh%2C+i+get+it+now.%22;%22i'm+still+in+the+hole.%22)](https://git.io/typing-svg)
 
 <img src="https://files.catbox.moe/29y4lt.png" width="60%">
 
