@@ -15,4 +15,4 @@ $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
-[prns cc](https://pronouns.cc/@piehiker)ㅤ[ata](https://piehiker.atabook.org/)ㅤ[mw alan](https://rentry.co/nasheu)
+<sub><a href="https://pronouns.cc/@piehiker" target="_blank">prns cc</a>ㅤ<a href="https://piehiker.atabook.org/" target="_blank">ata</a>ㅤ<a href="https://rentry.co/nasheu" target="_blank">mw alan</a>
