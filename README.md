@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=rush0ur&color=637A75&label=reposes) 
+[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=reposes&extraCount=26179&color=637A75&labelColor=637A75)](https://hits.sh/github.com/piehiker/)
 
 $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
