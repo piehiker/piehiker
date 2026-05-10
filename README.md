@@ -15,5 +15,5 @@ $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
 $\color{#637A75}ㅤㅤㅤㅤㅤ$
 
-<sub><a href="https://pronouns.cc/@piehiker" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#637A75}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#637A75}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://piehyker.straw.page/" target="_blank">𝗌𝗍𝗋𝖺𝗐 𝗐𝗂𝗉</a>
+<sub><a href="https://pronouns.cc/@piehiker" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#637A75}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#637A75}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://rentry.co/piehyker" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒 𝗐𝗂𝗉</a>
 
