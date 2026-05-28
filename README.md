@@ -8,4 +8,4 @@
 
 <img src="https://files.catbox.moe/leu2j8.gif" width="15%">
 
-<sub><a href="https://pronouns.cc/@piehiker" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#505332}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#505332}{\textsf{ㅤㅤ𐧼ㅤㅤ}}$ <a href="https://rentry.co/piehyker" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒 𝗐𝗂𝗉</a>
+${\textsf{\color{#505332} wip give me a bit }}$
