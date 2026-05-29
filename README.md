@@ -8,6 +8,4 @@
 
 <img src="https://files.catbox.moe/leu2j8.gif" width="15%">
 
-${\textsf{\color{#505332} wip give me a bit }}$
-
 <sub><a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
