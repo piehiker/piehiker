@@ -5,6 +5,6 @@
 
 <div align="center">
 
-<img src="https://files.catbox.moe/leu2j8.gif" width="15%">
+<img src="https://files.catbox.moe/p2kimn.png" width="30%">
 
 <sub><a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
