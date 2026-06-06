@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=reposes&extraCount=26179&color=874252&labelColor=874252)](https://hits.sh/github.com/piehiker/)
+[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=big˒birds&extraCount=26179&color=874252&labelColor=874252)](https://hits.sh/github.com/piehiker/)
 
 <div align="center">
 
