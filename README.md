@@ -5,4 +5,8 @@
 
 <img src="https://files.catbox.moe/p2kimn.png" width="30%">
 
+
+<p align="center">$\small\color{#6b3629}{\textsf{i tesㅤㅤㅤ...wip}}$
+
+
 <sub><a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
