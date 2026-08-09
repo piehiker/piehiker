@@ -1,4 +1,4 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/ny4dv6.jpg" width="20%">
+<img src="https://files.catbox.moe/6g43k1.png" width="35%">
 
