@@ -1,7 +1,7 @@
 
 
 
-<img src="https://files.catbox.moe/6g43k1.png" width="35%" align="left">
+<img src="https://files.catbox.moe/9d65dd.png" width="35%" align="left">
 
 [![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=(✿◠‿◠)&extraCount=26179&color=e08b63&labelColor=e08b63)](https://hits.sh/github.com/piehiker/)
 
