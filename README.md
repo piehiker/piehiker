@@ -9,7 +9,6 @@
   <table>
     <tr>
       <td>
-
 ${\textsf{\color{#ffffff}bear with me}}$<br>
 ${\textsf{\color{#ffffff}bear with me}}$<br>
 ${\textsf{\color{#ffffff}bear with me}}$<br>
