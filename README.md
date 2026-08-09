@@ -17,4 +17,4 @@ ${\textsf{\color{#ffffff}bear with me}}$<br>
     </tr>
   </table>
 
-  <sub><a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#3c2d1c}{\textsf{ㅤㅤㅤㅤ}}$ <a href="https://piehiker.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
+  <sub><a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#3c2d1c}{\textsf{ㅤㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
