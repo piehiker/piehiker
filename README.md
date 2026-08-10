@@ -15,6 +15,10 @@ ${\textsf{\color{#ffffff} bear with me bear with me}}$
 
 </table>
 
+$\small\color{#000000}{\textsf{ㅤㅤㅤ}}$
+
+${\small\\textsf{\color{#4a5a59}𝖺𝖼 : @𝗓𝗂𝖽𝗎𝗇𝖺𝗆 𝗈𝗇 𝗍𝗐𝗍}}$
+
 <div align="center">
 <br>  
   <table>
