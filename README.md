@@ -24,4 +24,5 @@ ${\textsf{\color{#ffffff} bear with me bear with me}}$
 
 </table>
 
-  <sub><a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#000000}{\textsf{ㅤㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a>
+<sub><a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌 𝖼𝖼</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://x.com/piehyker" target="_blank">𝗍𝗐𝗍</a>
+
