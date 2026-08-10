@@ -2,7 +2,6 @@
 
 
 <img src="https://files.catbox.moe/9d65dd.png" width="35%" align="left">
-<img src="https://files.catbox.moe/ujztz8.png" width="35%" align="right">
 
 <div align="center">
   
