@@ -1,7 +1,3 @@
-
-<img src="https://cdn.discordapp.com/attachments/1391151748802019580/1536150746846728252/Untitled87_20260810011426.png?ex=6a7b041e&is=6a79b29e&hm=e55f21bb782fe4fe3f11be6a4732e37c5908ed3eb0d5a2a137282b5656385ddf" width="35%" align="left">
-<img src="https://cdn.discordapp.com/attachments/1391151748802019580/1536372089827627018/Untitled87_20260810155301.png?ex=6a7b2982&is=6a79d802&hm=27d04d118589a0227783a99d3bea527402b103e2d7a8ce22d5d88bc96c442155" width="34%" align="right">
-
 <div align="center">
   
 [![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=(✿◠‿◠)&extraCount=26179&color=e08b63&labelColor=e08b63)](https://hits.sh/github.com/piehiker/)
@@ -14,8 +10,6 @@
 ${\textsf{\color{#ffffff} bear with me bear with me}}$
 
 </table>
-
-${\small\\textsf{\color{#4a5a59}𝖺𝖼 : @𝗓𝗂𝖽𝗎𝗇𝖺𝗆 𝗈𝗇 𝗍𝗐𝗍}}$
 
 <div align="center">
 <br>  
