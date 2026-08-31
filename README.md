@@ -4,7 +4,7 @@
 
 ${\textsf{\color{#8d543f}𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰}}$
 
-<img src="https://files.catbox.moe/d809cd.png" width="50%" align="center">
+<img src="https://files.catbox.moe/qbm74r.png" width="50%" align="center">
 
 <details> <summary>$\small\color{#d5d9de}{\textsf{<3}}$ </summary> 
 <sub><a href="https://github.com/chick-habit" target="_blank">alan </a>
