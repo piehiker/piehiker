@@ -2,11 +2,11 @@
   
 [![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=(✿◠‿◠)&extraCount=26179&color=000000&labelColor=000000)](https://hits.sh/github.com/piehiker/)
 
-${\textsf{\color{#31836c}𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰}}$
+${\textsf{\color{#8d543f}𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰}}$
 
-<img src="https://files.catbox.moe/igoj92.png" width="50%" align="center">
+<img src="https://files.catbox.moe/d809cd.png" width="50%" align="center">
 
-<details> <summary>$\small\color{#cfbca2}{\textsf{<3}}$ </summary> 
+<details> <summary>$\small\color{#d5d9de}{\textsf{<3}}$ </summary> 
 <sub><a href="https://github.com/chick-habit" target="_blank">alan </a>
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/yvoisen" target="_blank">yvo </a>
@@ -35,9 +35,9 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 
 
-<img src="https://files.catbox.moe/60jqqh.png" width="30%" align="center"> </details>
+<img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
 
-${\textsf{\color{#31836c}𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰}}$
+${\textsf{\color{#8d543f}𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰}}$
 
 <sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a>
 
