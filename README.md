@@ -6,6 +6,37 @@ ${\textsf{\color{#31836c}𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪
 
 <img src="https://files.catbox.moe/igoj92.png" width="50%" align="center">
 
+<details> <summary>$\small\color{#cfbca2}{\textsf{<3}}$ </summary> 
+<sub><a href="https://github.com/chick-habit" target="_blank">alan </a>
+$\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/yvoisen" target="_blank">yvo </a>
+$\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/6ullets" target="_blank">𝗍𝗁𝖾𝗈 </a>
+$\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/CONEXlONN" target="_blank">sharp </a>
+$\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/SlX-EYES" target="_blank">len</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/Moiemon" target="_blank">moie </a>
+$\small\color{#875556}{\textsf{ }}$
+
+  
+<a href="https://github.com/elisxne" target="_blank">tux</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/crushdow" target="_blank">crush</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/sunnyfoggy" target="_blank">sunny</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/DEBTHVERIFIED" target="_blank">𝗌𝗂𝗋𝗂𝗎𝗌</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/horroryaoi" target="_blank">𝗏𝗈𝗂𝖽</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/WhiskersDream" target="_blank">𝖾𝗅𝗂𝖺𝗁</a>
+$\small\color{#875556}{\textsf{ }}$
+
+
+<img src="https://files.catbox.moe/60jqqh.png" width="30%" align="center"> </details>
+
 ${\textsf{\color{#31836c}𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰}}$
 
 <sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a>
