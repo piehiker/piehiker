@@ -34,6 +34,23 @@ $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/WhiskersDream" target="_blank">𝖾𝗅𝗂𝖺𝗁</a>
 $\small\color{#875556}{\textsf{ }}$
 
+$\small\color{#875556}{\textsf{ }}$
+
+${\textsf{\color{#d5d9de}𝗍𝗁𝖾 𝗀𝖼 : }}$
+
+<a href="https://github.com/yvoisen" target="_blank">yvo </a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/6ullets" target="_blank">𝗍𝗁𝖾𝗈 </a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/KANDYGUTZ" target="_blank">𝗏𝗂𝗏𝗂𝖺𝗇 </a>
+$\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/dylan-astro" target="_blank">𝖽𝗒𝗅𝖺𝗇 </a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/sokizsp4ceship" target="_blank">𝗌𝗈𝗄𝗂 </a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/vlxxen" target="_blank">vixxen </a>
+$\small\color{#875556}{\textsf{ }}$ 
+
 
 <img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
 
