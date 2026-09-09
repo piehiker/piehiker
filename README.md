@@ -7,17 +7,17 @@ ${\textsf{\color{#8d543f}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦�
 <img src="https://files.catbox.moe/qbm74r.png" width="50%" align="center">
 
 <details> <summary>$\small\color{#d5d9de}{\textsf{<3}}$ </summary> 
-<sub><a href="https://github.com/chick-habit" target="_blank">alan </a>
+<sub><a href="https://github.com/chick-habit" target="_blank">alan</a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/yvoisen" target="_blank">yvo </a>
+<a href="https://github.com/yvoisen" target="_blank">yvo</a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/coIdified" target="_blank">𝗍𝗁𝖾𝗈 </a>
+<a href="https://github.com/coIdified" target="_blank">theo</a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/CONEXlONN" target="_blank">sharp </a>
+<a href="https://github.com/CONEXlONN" target="_blank">sharp</a>
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/SlX-EYES" target="_blank">len</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/Moiemon" target="_blank">moie </a>
+<a href="https://github.com/Moiemon" target="_blank">moie</a>
 $\small\color{#875556}{\textsf{ }}$
 
   
@@ -27,29 +27,29 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/sunnyfoggy" target="_blank">sunny</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/DEBTHVERIFIED" target="_blank">𝗌𝗂𝗋𝗂𝗎𝗌</a>
+<a href="https://github.com/DEBTHVERIFIED" target="_blank">sirius</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/horroryaoi" target="_blank">𝗏𝗈𝗂𝖽</a>
+<a href="https://github.com/horroryaoi" target="_blank">void</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/WhiskersDream" target="_blank">𝖾𝗅𝗂𝖺𝗁</a>
+<a href="https://github.com/WhiskersDream" target="_blank">whisk</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/themacewielder" target="_blank">wem</a>
 $\small\color{#875556}{\textsf{ }}$
 
 $\small\color{#875556}{\textsf{ }}$
 
 ${\textsf{\color{#d5d9de}𝗍𝗁𝖾 𝗀𝖼 : }}$
 
-<a href="https://github.com/yvoisen" target="_blank">yvo </a>
+<a href="https://github.com/yvoisen" target="_blank">yvo</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/coIdified" target="_blank">𝗍𝗁𝖾𝗈 </a>
+<a href="https://github.com/coIdified" target="_blank">theo</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/KANDYGUTZ" target="_blank">𝗏𝗂𝗏𝗂𝖺𝗇 </a>
+<a href="https://github.com/KANDYGUTZ" target="_blank">vivian</a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/dylan-astro" target="_blank">𝖽𝗒𝗅𝖺𝗇 </a>
+<a href="https://github.com/dylan-astro" target="_blank">dylan</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/sokizsp4ceship" target="_blank">𝗌𝗈𝗄𝗂 </a>
+<a href="https://github.com/sokizsp4ceship" target="_blank">soki</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/vlxxen" target="_blank">vixxen </a>
-$\small\color{#875556}{\textsf{ }}$ 
 
 
 <img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
