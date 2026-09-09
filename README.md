@@ -11,7 +11,7 @@ ${\textsf{\color{#8d543f}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦�
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/yvoisen" target="_blank">yvo </a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/6ullets" target="_blank">𝗍𝗁𝖾𝗈 </a>
+<a href="https://github.com/coIdified" target="_blank">𝗍𝗁𝖾𝗈 </a>
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/CONEXlONN" target="_blank">sharp </a>
 $\small\color{#875556}{\textsf{ }}$ 
@@ -40,7 +40,7 @@ ${\textsf{\color{#d5d9de}𝗍𝗁𝖾 𝗀𝖼 : }}$
 
 <a href="https://github.com/yvoisen" target="_blank">yvo </a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/6ullets" target="_blank">𝗍𝗁𝖾𝗈 </a>
+<a href="https://github.com/coIdified" target="_blank">𝗍𝗁𝖾𝗈 </a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/KANDYGUTZ" target="_blank">𝗏𝗂𝗏𝗂𝖺𝗇 </a>
 $\small\color{#875556}{\textsf{ }}$ 
