@@ -13,7 +13,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/coIdified" target="_blank">theo</a>
 $\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/CONEXlONN" target="_blank">sharp</a>
+<a href="https://github.com/dummyinbed" target="_blank">sharp</a>
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/SlX-EYES" target="_blank">len</a>
 $\small\color{#875556}{\textsf{ }}$
