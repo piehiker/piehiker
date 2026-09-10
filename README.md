@@ -38,20 +38,6 @@ $\small\color{#875556}{\textsf{ }}$
 
 $\small\color{#875556}{\textsf{ }}$
 
-${\textsf{\color{#d5d9de}𝗍𝗁𝖾 𝗀𝖼 : }}$
-
-<a href="https://github.com/yvoisen" target="_blank">yvo</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/coIdified" target="_blank">theo</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/KANDYGUTZ" target="_blank">vivian</a>
-$\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/dylan-astro" target="_blank">dylan</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/sokizsp4ceship" target="_blank">soki</a>
-$\small\color{#875556}{\textsf{ }}$
-
-
 <img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
 
 ${\textsf{\color{#723b2c}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰 "}}$
