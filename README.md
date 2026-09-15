@@ -33,7 +33,17 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/WhiskersDream" target="_blank">whisk</a>
 $\small\color{#875556}{\textsf{ }}$
+
+
+<a href="https://github.com/copperbottoms" target="_blank">rodney</a>
+$\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/themacewielder" target="_blank">wem</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/wubism" target="_blank">sev</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/100bottlesofglue" target="_blank">fei</a>
+$\small\color{#875556}{\textsf{ }}$
+<a href="https://github.com/orcapaint" target="_blank">toki</a>
 $\small\color{#875556}{\textsf{ }}$
 
 $\small\color{#875556}{\textsf{ }}$
