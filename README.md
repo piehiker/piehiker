@@ -22,7 +22,6 @@ $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/elisxne" target="_blank">tux</a>
 $\small\color{#875556}{\textsf{ }}$
   
-
 <a href="https://github.com/crushdow" target="_blank">crush</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/sunnyfoggy" target="_blank">sunny</a>
@@ -33,8 +32,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/WhiskersDream" target="_blank">whisk</a>
 $\small\color{#875556}{\textsf{ }}$
-
-
+  
 <a href="https://github.com/copperbottoms" target="_blank">rodney</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/themacewielder" target="_blank">wem</a>
