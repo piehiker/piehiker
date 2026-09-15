@@ -21,18 +21,18 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/elisxne" target="_blank">tux</a>
 $\small\color{#875556}{\textsf{ }}$
-  
 <a href="https://github.com/crushdow" target="_blank">crush</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/sunnyfoggy" target="_blank">sunny</a>
 $\small\color{#875556}{\textsf{ }}$
+
+
 <a href="https://github.com/DEBTHVERIFIED" target="_blank">sirius</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/horroryaoi" target="_blank">void</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/WhiskersDream" target="_blank">whisk</a>
 $\small\color{#875556}{\textsf{ }}$
-  
 <a href="https://github.com/copperbottoms" target="_blank">rodney</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/themacewielder" target="_blank">wem</a>
@@ -44,7 +44,9 @@ $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/orcapaint" target="_blank">toki</a>
 $\small\color{#875556}{\textsf{ }}$
 
+
 $\small\color{#875556}{\textsf{ }}$
+
 
 <img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
 
