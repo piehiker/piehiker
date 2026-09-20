@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=ballright&extraCount=26179&color=192c3d&labelColor=192c3d)](https://hits.sh/github.com/piehiker/)
+[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=𝚟𝚎𝚗𝚐𝚎𝚊𝚗𝚌𝚎&extraCount=26179&color=192c3d&labelColor=192c3d)](https://hits.sh/github.com/piehiker/)
 
 ${\textsf{\color{#723b2c}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰 "}}$
 
