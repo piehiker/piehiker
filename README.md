@@ -4,7 +4,7 @@
 
 ${\textsf{\color{#723b2c}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰 "}}$
 
-<img src="https://files.catbox.moe/qbm74r.png" width="50%" align="center">
+<img src="https://files.catbox.moe/1lmg91.png" width="50%" align="center">
 
 <details> <summary>$\small\color{#9bae85}{\textsf{<3}}$ </summary> 
 <sub><a href="https://github.com/chick-habit" target="_blank">alan</a>
@@ -48,7 +48,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 
 
-<img src="https://files.catbox.moe/ce6ye6.png" width="30%" align="center"> </details>
+<img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
 
 ${\textsf{\color{#723b2c}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰 "}}$
 
