@@ -1,12 +1,12 @@
 <div align="center">
   
-[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=𝚟𝚎𝚗𝚐𝚎𝚊𝚗𝚌𝚎&extraCount=26179&color=192c3d&labelColor=192c3d)](https://hits.sh/github.com/piehiker/)
+[![Hits](https://hits.sh/github.com/piehiker.svg?style=flat-square&label=𝚟𝚎𝚗𝚐𝚎𝚊𝚗𝚌𝚎&extraCount=26179&color=101c27&labelColor=101c27)](https://hits.sh/github.com/piehiker/)
 
-${\textsf{\color{#723b2c}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰 "}}$
+${\textsf{\color{#43251a}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦𝔪𝔞𝔤𝔦𝔫𝔢𝔡 𝔱𝔥𝔯𝔬𝔲𝔤𝔥 𝔥𝔦𝔰 𝔢𝔶𝔢𝔰 "}}$
 
 <img src="https://files.catbox.moe/4zix97.png" width="50%" align="center">
 
-<details> <summary>$\small\color{#9bae85}{\textsf{<3}}$ </summary> 
+<details> <summary>$\small\color{#60685c}{\textsf{<3}}$ </summary> 
 <sub><a href="https://github.com/chick-habit" target="_blank">alan</a>
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/yvoisen" target="_blank">yvo</a>
@@ -45,7 +45,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 
 
-$\small\color{#875556}{\textsf{ }}$
+$\small\color{#43251a}{\textsf{ }}$
 
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
