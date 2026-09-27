@@ -33,7 +33,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/copperbottoms" target="_blank">rodney</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/themacewielder" target="_blank">wem</a>
+<a href="https://github.com/themacewielder" target="_blank">edit</a>
 $\small\color{#875556}{\textsf{ }}$
 
 
