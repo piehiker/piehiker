@@ -44,5 +44,5 @@ $\small\color{#43251a}{\textsf{ }}$
 
 ${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰 "}}$
 
-<sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://pronouns.cc/@minutes" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a>
+<sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://pronouns.cc/@minutech" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a>
 
