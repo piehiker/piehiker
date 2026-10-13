@@ -15,11 +15,11 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$ 
 <a href="https://github.com/dummyinbed" target="_blank">@dummyinbed</a>
 $\small\color{#875556}{\textsf{ }}$ 
+<a href="https://github.com/crushdow" target="_blank">@crushdow</a>
+$\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/SlX-EYES" target="_blank">@slx-eyes</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/Moiemon" target="_blank">@moiemon</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/crushdow" target="_blank">@crushdow</a>
 $\small\color{#875556}{\textsf{ }}$
 
   
@@ -31,7 +31,7 @@ $\small\color{#875556}{\textsf{ }}$
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/WhiskersDream" target="_blank">@whiskersdream</a>
 $\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/copperbottoms" target="_blank">@@copperbottoms</a>
+<a href="https://github.com/copperbottoms" target="_blank">@copperbottoms</a>
 $\small\color{#875556}{\textsf{ }}$
 <a href="https://github.com/themacewielder" target="_blank">@themacewielder</a>
 $\small\color{#875556}{\textsf{ }}$
