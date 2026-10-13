@@ -6,14 +6,13 @@ ${\textsf{\color{#43251a}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦�
 
 <img src="https://files.catbox.moe/4zix97.png" width="50%" align="center">
 
-<details> <summary>$\small\color{#60685c}{\textsf{<3}}$ </summary> 
+${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰 "}}$
 
+<details> <summary>$\small\color{#60685c}{\textsf{<3}}$ </summary> 
 
 ${\textsf{\color{#60685c}i lov my friens im just lazy to organize the @s}}$
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
-
-${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩𝔶 𝔠𝔞𝔩𝔦𝔟𝔯𝔞𝔱𝔢𝔡 𝔩𝔦𝔢𝔰 "}}$
 
 <sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤㅤㅤ}}$ <a href="https://pronouns.cc/@minutech" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a>
 
