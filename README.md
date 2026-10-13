@@ -7,38 +7,8 @@ ${\textsf{\color{#43251a}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦�
 <img src="https://files.catbox.moe/4zix97.png" width="50%" align="center">
 
 <details> <summary>$\small\color{#60685c}{\textsf{<3}}$ </summary> 
-<sub><a href="https://github.com/chick-habit" target="_blank">@chick-habit</a>
-$\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/yvoisen" target="_blank">@yvoisen</a>
-$\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/coIdified" target="_blank">@coIdified</a>
-$\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/dummyinbed" target="_blank">@dummyinbed</a>
-$\small\color{#875556}{\textsf{ }}$ 
-<a href="https://github.com/crushdow" target="_blank">@crushdow</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/SlX-EYES" target="_blank">@slx-eyes</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/Moiemon" target="_blank">@moiemon</a>
-$\small\color{#875556}{\textsf{ }}$
 
-  
-<a href="https://github.com/elisxne" target="_blank">@elisxne</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/sunnyfoggy" target="_blank">@sunnyfoggy</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/DEBTHVERIFIED" target="_blank">@debthverified</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/WhiskersDream" target="_blank">@whiskersdream</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/copperbottoms" target="_blank">@copperbottoms</a>
-$\small\color{#875556}{\textsf{ }}$
-<a href="https://github.com/themacewielder" target="_blank">@themacewielder</a>
-$\small\color{#875556}{\textsf{ }}$
-
-
-$\small\color{#43251a}{\textsf{ }}$
-
+${\textsf{\color{#60685c}i lov my friens im just lazy to organize the @s}}$
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
 
