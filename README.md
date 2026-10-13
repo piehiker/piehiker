@@ -8,6 +8,7 @@ ${\textsf{\color{#43251a}" 𝔞 𝔟𝔢𝔱𝔱𝔢𝔯 𝔩𝔦𝔣𝔢 𝔦�
 
 <details> <summary>$\small\color{#60685c}{\textsf{<3}}$ </summary> 
 
+
 ${\textsf{\color{#60685c}i lov my friens im just lazy to organize the @s}}$
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
