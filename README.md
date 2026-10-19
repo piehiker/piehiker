@@ -14,5 +14,5 @@ ${\textsf{\color{#60685c}i lov my friens im just lazy to organize the @s}}$
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
 
-<sub><a href="https://rentry.co/minutetek" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://pronouns.cc/@minutech" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://rentry.co/blindfoldbrothrs" target="_blank">𝗆𝖺𝗍𝖼𝗁𝗂𝗇𝗀 :3𝖼</a>
+<sub><a href="https://rentry.co/minutechs" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://pronouns.cc/@minutech" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://rentry.co/blindfoldbrothrs" target="_blank">𝗆𝖺𝗍𝖼𝗁𝗂𝗇𝗀 :3𝖼</a>
 
