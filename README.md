@@ -13,7 +13,7 @@ ${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩�
    <p align="center"> 
      
 <sub>[@chick-habit](https://github.com/chick-habit)ㅤ[@yvoisen](https://github.com/yvoisen)ㅤ[@coIdified](https://github.com/coIdified)ㅤ^_^ <br> 
-[@dummyinbed](https://github.com/dummyinbed)ㅤ[@crushdow](https://github.com/crushdow)ㅤ[@sunnyfoggy](https://github.com/sunnyfoggy)ㅤ[@deepaffection](https://github.com/deepaffection) <br>ㅤ[@themacewielder](https://github.com/themacewielder)ㅤ[@sokizsp4ceship](https://github.com/sokizsp4ceship)ㅤ[@whiskersdream](https://github.com/whiskersdream)ㅤ[@elisxne](https://github.com/elisxne) <br>ㅤ[@horroryaoi](https://github.com/horroryaoi)ㅤ[@debthverified](https://github.com/debthverified)ㅤ[@itrappedfan](https://github.com/itrappedfan)
+[@dummyinbed](https://github.com/dummyinbed)ㅤ[@crushdow](https://github.com/crushdow)ㅤ[@sunnyfoggy](https://github.com/sunnyfoggy)ㅤ[@deepaffection](https://github.com/deepaffection) <br>ㅤ[@themacewielder](https://github.com/themacewielder)ㅤ[@sokizsp4ceship](https://github.com/sokizsp4ceship)ㅤ[@whiskersdream](https://github.com/whiskersdream)ㅤ[@elisxne](https://github.com/elisxne) <br>ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@horroryaoi](https://github.com/horroryaoi)ㅤ[@debthverified](https://github.com/debthverified)ㅤ[@itrappedfan](https://github.com/itrappedfan)
 
 <img src="https://files.catbox.moe/fcef6o.png" width="30%" align="center"> </details>
 
