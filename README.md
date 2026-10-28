@@ -19,3 +19,39 @@ ${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩�
 
 <sub><a href="https://rentry.co/minutechs" target="_blank">𝗋𝖾𝗇𝗍𝗋𝗒</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://flowtives.atabook.org/" target="_blank">新𝖻𝗈𝗈𝗄</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://pronouns.cc/@minutech" target="_blank">𝗉𝗋𝗇𝗌.𝖼𝖼</a> $\small\color{#000000}{\textsf{ㅤ}}$ <a href="https://rentry.co/blindfoldbrothrs" target="_blank">𝗆𝖺𝗍𝖼𝗁𝗂𝗇𝗀 :3𝖼</a>
 
+ㅤ
+
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+ㅤ
+
+
+https://github.com/user-attachments/assets/2ae85f37-c927-45e0-93dd-cdce1f544356
+
