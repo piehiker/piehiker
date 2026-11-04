@@ -27,31 +27,9 @@ ${\textsf{\color{#43251a}" 𝔞 𝔳𝔢𝔦𝔩 𝔬𝔣 𝔣𝔦𝔫𝔢𝔩�
 ㅤ
 ㅤ
 ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-ㅤ
-
-
+<details> <summary>$\color{#000000}{\textsf{ }}$ </summary> 
+  
 https://github.com/user-attachments/assets/2ae85f37-c927-45e0-93dd-cdce1f544356
+
+</details>
 
